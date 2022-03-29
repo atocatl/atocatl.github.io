@@ -34,9 +34,9 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  projects:
+  updates:
     output: true
-    permalink: /projects/:slug
+    permalink: /updates/:slug
   
 defaults:
   -
