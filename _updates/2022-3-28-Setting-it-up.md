@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: update
 title: Setting it up
 category: Update category
 ---
