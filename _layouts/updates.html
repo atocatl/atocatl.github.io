@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for update in site.updates reversed %}
+<article role="article">
+  <h2><a href="{{ site.baseurl }}{{ update.url }}">
+    {{ update.title }}
+  </a></h2>
+  <p>{{ update.summary }}</p>
+    <time class="date" datetime="{{ update.date | date_to_xmlschema }}">{{ update.date | date: "%Y" }} &middot; {{ update.category }}</time>
+</article>
+{% endfor %}
