@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="/atocatl-logo.jpg width=100%>
+<img src="/atocatl-logo.jpg" width=200>
   
 ## [TCATL] Atocatl Cardano Stake Pool  
 
