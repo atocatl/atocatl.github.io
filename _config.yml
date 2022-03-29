@@ -1,12 +1,13 @@
-site: Tocatl Cardano Pool
-url: https://tocatl.github.io
-title: Tocatl Cardano Pool
+site: Atocatl Cardano Pool
+url: https://atocatl.github.io
+title: Atocatl Cardano Pool
 description: >
+  Atocatl Cardano Pool
   Working to create a carbon-neutral crypto ecosystem. 
   50% margin donated to carbon offset and environmental causes.
 
 twitter:
-  username: tocatl
+  username: atocatl
   card: summary
 
 permalink: pretty
