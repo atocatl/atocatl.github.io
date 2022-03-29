@@ -1,5 +1,5 @@
 site: Tocatl Cardano Pool
-url: https://example.com
+url: https://tocatl.github.io
 title: Tocatl Cardano Pool
 description: Working to create a carbon-neutral crypto ecosystem. Multi-layer security running on dedicated hardware. 
 50% margin donated to carbon offset and environmental causes. 50% into extra rewards for stakers ($ATL)
@@ -59,9 +59,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "updates"
     values:
-      layout: "project"
+      layout: "update"
       
   - scope:
       path: "assets/images"
