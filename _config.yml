@@ -67,6 +67,6 @@ defaults:
       layout: "update"
       
   - scope:
-      path: "assets/images"
+      path: "images"
     values:
       image: true
